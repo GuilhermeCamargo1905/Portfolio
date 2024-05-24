@@ -1,6 +1,6 @@
 {
   "name": "Guilherme C Silva",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://avatars.githubusercontent.com/u/112396897?v=4",
   "job": "Analista de Dados JR",
   "location": "Hortolândia - SP",
   "phone": "(19) 98345-7114",
@@ -59,19 +59,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estagiário em analise de Dados / Sottelli",
+      "period": "12/2023 - 03/2024",
+      "description": "Dentro da Sottelli abri meus horizontes no mundo salesforce onde não tinha nenhuma experiência e hoje tenho grande conhecimento e tenho orgulho de dizer que sou ranger e com 9 superbadges. Mas o principal é todo o conhecimento em análise de dados que desenvolvi, com MySQL, Python, Pandas, Power BI e Azure. Fui integrante de uma equipe de dados e ajudei em criação de fluxos de dados, fluxogramas, migração de dados e criação de documentação para o data cloud."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Estagiário em infraestrutura / Vexia",
+      "period": "05/2023 - 09/2023",
+      "description": "Integrei a equipe de estagiários na área de redes, onde desempenhei um papel fundamental no desenvolvimento de projetos relacionados ao desempenho da infraestrutura de rede. Minhas responsabilidades se concentraram na resolução de incidentes críticos e na elaboração de documentação detalhada para os clientes da empresa. Durante meu período na equipe, conduzi atividades essenciais, incluindo a configuração de VPNs, o estabelecimento de conexões de acesso à internet e a implementação de regras de firewall para garantir a segurança da rede. Minha contribuição desempenhou um papel significativo na manutenção da estabilidade e eficiência das operações de rede da organização."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Auxiliar de TI / Certo Multimarcas",
+      "period": "08/2021 - 05/2023",
+      "description": "Fui responsável pelo desenvolvimento dos processos de suporte administrativo para a loja, desenvolvendo dashboard's para o acompanhamento financeiro da loja como contas a pagar, valores recebidos e todo tipo de controle administrativo. Responsável pelo acompanhamento da rotina de organização da loja."
     }
   ]
 }
