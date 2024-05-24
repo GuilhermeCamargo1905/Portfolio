@@ -60,12 +60,22 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/GuilhermeCamargo1905/Pokedex.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso Ministrado na DIO para a criação de uma Porfólio",
+      "url": "https://github.com/GuilhermeCamargo1905/Portfolio",
+      "github": true
+    },
+    {
+      "name": "Snake-Game em JS",
+      "url": "https://github.com/GuilhermeCamargo1905/snake-game.git",
+      "github": true
+    },
+    {
+      "name": "TCC Cyberia",
+      "url": "https://github.com/GuilhermeCamargo1905/Cyberia.git",
       "github": true
     }
   ],
