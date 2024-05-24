@@ -9,27 +9,39 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/python.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/MySQL.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/git.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "vsCode",
+        "logo": "https://raw.githubusercontent.com/GuilhermeCamargo1905/Portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
